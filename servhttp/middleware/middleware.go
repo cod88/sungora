@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/sungora/app/core"
+	"github.com/cod88/sungora/core"
 )
 
 const KeyRW string = "RW"
