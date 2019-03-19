@@ -1,4 +1,4 @@
-module github.com/sungora/app
+module github.com/cod88/sungora
 
 require (
 	cloud.google.com/go v0.36.0 // indirect
