@@ -8,4 +8,5 @@ require (
 	github.com/jinzhu/inflection v0.0.0-20180308033659-04140366298a // indirect
 	github.com/lib/pq v1.0.0 // indirect
 	gopkg.in/yaml.v2 v2.2.2
+	github.com/cod88/sungora v1.0.2
 )
