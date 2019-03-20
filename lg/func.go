@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sungora/app/lg/message"
+	"github.com/cod88/sungora/lg/message"
 )
 
 func Fatal(key interface{}, parametrs ...interface{}) {

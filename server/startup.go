@@ -10,7 +10,7 @@ import (
 
 	"github.com/BurntSushi/toml"
 
-	"github.com/sungora/app/core"
+	"github.com/cod88/sungora/core"
 )
 
 // init регистрация компонента в приложении

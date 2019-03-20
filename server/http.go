@@ -3,8 +3,8 @@ package server
 import (
 	"net/http"
 
-	"github.com/sungora/app/core"
-	"github.com/sungora/app/lg"
+	"github.com/cod88/sungora/core"
+	"github.com/cod88/sungora/lg"
 )
 
 type serverHttp struct {
